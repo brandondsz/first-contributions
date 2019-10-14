@@ -29,6 +29,7 @@ Philip Wright
 - [Masoomi](https://github.com/mashsaxena)
 - [Sourabh Grover](https://github.com/sourabhgrover)
 - [Zaycodes](https://github.com/zainababubakar)
+- Brandon D'Souza
 - [Somil Gupta](https://github.com/somilg050)
 - [Brandon Rosser](https://github.com/krunkbot3000)
 - [Sahaj Evens](https://github.com/sahaj-evens)
